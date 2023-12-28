@@ -20,7 +20,7 @@ RosBot represents a two-wheeled differential drive robot that leverages the powe
 
 - Follow the [Robot Assembly Manual]() to assembel the robot
 - Follow the [ESP32 inastllation Manual]() to upload the code to esp32
-- Follow the [ROS installation Manual]() to setup the workspace
+- Follow the [ROS package Manual]() to setup the workspace
 
 # Steps to start the Robot 
 
